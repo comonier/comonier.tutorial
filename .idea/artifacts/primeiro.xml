@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="primeiro">
+    <output-path>$PROJECT_DIR$/../../../_/dev_1.18.2/plugins</output-path>
+    <root id="archive" name="primeiro.jar">
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+      <element id="module-output" name="comonier.tutorial" />
+    </root>
+  </artifact>
+</component>
