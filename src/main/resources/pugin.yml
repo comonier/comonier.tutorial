@@ -1,0 +1,9 @@
+name: tutorial
+author: comonier
+version: 1.0
+api-version: 1.18.2
+main: br.net.hu3.tutorial.tutorial
+commands:
+
+
+
